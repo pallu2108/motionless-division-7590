@@ -1,10 +1,11 @@
-import logo from './logo.svg';
+
 import './App.css';
+import AllRoutes from './Components/AllRoutes';
 
 function App() {
   return (
     <div className="App">
-      <h1>Sugar Cosmetics</h1>
+      <AllRoutes/>
     </div>
   );
 }
