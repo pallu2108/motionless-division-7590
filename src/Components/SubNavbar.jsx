@@ -1,7 +1,7 @@
 function SubNavbar(){
     return(
   <div>
-    <div style={{display:"flex",height:"80px",width:"100%"}}>
+    <div style={{display:"flex",height:"50px",width:"100%",paddingTop:"10px"}}>
       <p style={{paddingLeft:"50px",color:"grey"}}>
         MAKEUP
       </p>

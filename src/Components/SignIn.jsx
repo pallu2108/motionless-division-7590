@@ -83,8 +83,8 @@ function SignIn() {
         {isSubmitted ?<div> <Link to="/" style={{color:"black",textDecoration:"none",fontSize:"25px"}}> user logged in successfully!</Link></div> : renderForm}
       </div>
       <h4 style={{fontFamily:"sans-serif",fontWeight:"lighter",fontSize:"18px"}}>Registering for this site allows you to access your order status and history. Just fill in the </h4>
-      <h4 style={{marginTop:"-30px",fontFamily:"sans-serif",fontWeight:"lighter",fontSize:"18px"}}>fields below. and we'll get a new account set up for you in no time. We will only ask you</h4>
-      <h4 style={{marginTop:"-30px",fontFamily:"sans-serif",fontWeight:"lighter",fontSize:"18px"}}>for information necessary to make the purchase process faster and easier.</h4>
+      <h4 style={{marginTop:"-20px",fontFamily:"sans-serif",fontWeight:"lighter",fontSize:"18px"}}>fields below. and we'll get a new account set up for you in no time. We will only ask you</h4>
+      <h4 style={{marginTop:"-20px",fontFamily:"sans-serif",fontWeight:"lighter",fontSize:"18px"}}>for information necessary to make the purchase process faster and easier.</h4>
     </div>
   );
 }
