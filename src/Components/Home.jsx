@@ -4,7 +4,7 @@ import Slider from "../slider/Slider";
 // import Slider from "../slider2/Slider";
 import Slider2 from "../slider2/Slider2";
 import Slider3 from "../slider3/Slider3";
-
+import Footer from "./Footer/Footer"
 function Home(){
     return (
         <div>
@@ -226,6 +226,9 @@ function Home(){
                     <img style={{height:"220px",width:"330px"}} src="https://d32baadbbpueqt.cloudfront.net/Homepage/d3e932be-f181-4db6-b02f-866c25777902.jpg" alt=""/>
                     <img style={{height:"220px",width:"330px"}} src="https://d32baadbbpueqt.cloudfront.net/Homepage/0f06a6f1-f07e-4141-ab7c-4db648fd9b9e.jpg" alt=""/>
                 </div>
+            </div>
+            <div>
+               <Footer/> 
             </div>
         </div>
     )
