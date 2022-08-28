@@ -8,12 +8,12 @@ import Navbar from '../Navbar'
 import Footer from '../Footer/Footer'
 // import {useCart} from "react-use-cart"
 
-export const ProductData = () => {
+export const Lipstick = () => {
  const {id}=useParams();
  const navigate=useNavigate();
     const [data,setData] = useState([])   
     useEffect (()=>{
-     axios.get("http://localhost:8080/FaceProduct").then((res)=>{
+     axios.get("http://localhost:8080/Lipstick").then((res)=>{
         setData(res.data)
      })
    
@@ -29,7 +29,7 @@ export const ProductData = () => {
         const items = JSON.parse(localStorage.getItem("myItems")) || [];
         const newItems = JSON.stringify([...items,newdata[0]])
         localStorage.setItem("myItems",newItems);
-        alert( `${items.length+1} item added to the cart`)
+        alert( "item added to the cart")
         navigate("/products/cart")
       }
     

@@ -11,14 +11,16 @@ function Navbar(){
           <input style={{height:"40px",width:"550px",marginLeft:"80px",marginTop:"20px",border:"none",borderTopLeftRadius:"30px",borderBottomLeftRadius:"30px",paddingLeft:"20px"}} 
            type="text"
            placeholder='Try "Liquid Lipstick"' />
-           <button style={{border:"none",backgroundColor:"black",height:"43px",width:"120px",marginTop:"20px",
+           <button style={{border:"none",backgroundColor:"black",height:"40px",width:"120px",marginTop:"20px",
              color:"white",borderTopRightRadius:"30px",borderBottomRightRadius:"30px",fontSize:"17px"}}>
             Search
             </button>
              <FaUser style={{marginTop:"35px",marginLeft:"100px"}}/>
              <Link to="/signin"><p style={{textDecoration:"underline", marginLeft:"5px", marginTop:"30px", color:"black"}}>Login/Register</p></Link>
              <FaHeart style={{marginTop:"35px",marginLeft:"100px",color:"gray"}}/>
-             <FaShoppingBag  style={{marginTop:"35px",marginLeft:"30px",color:"gray"}}/>
+             <Link to="/products/cart">
+             <FaShoppingBag  style={{marginTop:"35px",marginLeft:"30px",color:"rgb(44, 43, 43)"}}/>
+             </Link>
              <MdLocalOffer style={{marginTop:"35px",marginLeft:"30px"}}/>
          </div>
          <SubNavbar/>

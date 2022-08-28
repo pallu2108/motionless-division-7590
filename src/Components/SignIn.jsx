@@ -1,10 +1,11 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 // import Home from "./Home"
 import "./styles.css";
 
 function SignIn() {
   // React States
+  const navigate=useNavigate()
   const [errorMessages, setErrorMessages] = useState({});
   const [isSubmitted, setIsSubmitted] = useState(false);
 
@@ -46,6 +47,7 @@ function SignIn() {
       
       setErrorMessages({ name: "uname", message: errors.uname });
     }
+ navigate("/")
   };
 
   

@@ -1,0 +1,64 @@
+{
+    "FaceProduct":[
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-all-set-to-go-banana-powder-13289662218323.jpg?v=1619115199"
+    ,"name":"ALL SET GO BANANA POWDER","price":"Rs.599","rating":"4.8","id":"24"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-rage-for-coverage-24hr-foundation-07-vanilla-latte-fair-golden-undertone-28391223263315.jpg?v=1623073552",
+    "name":"RAGE FOR COVERAGE FOUNDATION","price":"Rs.799","rating":"4.8","id":"33"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-banana-compact-28122599424083.jpg?v=1619116314"
+    ,"name":"POWDER PLAY BANANA COMPACT","price":"Rs.599","rating":"4.7","id":"44"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-translucent-compact-28122598932563.jpg?v=1619116304"
+    ,"name":"POWDERPLAY TRANSLUCENT COMPACT","price":"Rs.599","rating":"4.7","id":"53"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-dream-cover-spf15-mattifying-compact-10-latte-12775602356307.jpg?v=1619106501",
+    "name":"DREAM COVER SPF15 COMPACT","price":"Rs.499","rating":"4.7","id":"54"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/10_399a571c-c091-4d1c-bc17-111b7da9cd4e.jpg?v=1648741253"
+    ,"name":"SET THE TONE TINTED POWDER","price":"Rs.699","rating":"4.7","id":"60"}
+],
+   "Lipstick":[
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/1_6f55bcac-3e42-4253-88ee-cec0fa43c62a.jpg?v=1645608270"
+    ,"name":"MATTE TRANPROOF LIPSTICK","price":"Rs.699","rating":"4.7","id":"1"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-tipsy-lips-moisturizing-balm-01-mojito-15057279877203.jpg?v=1619122412"
+    ,"name":"TIPSY LIPS MOTISTURIZING BALM","price":"Rs.199","rating":"4.8","id":"2"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/1_ef579f2e-602e-4d2f-bed2-bf0efdf4f184.jpg?v=1644325813"
+    ,"name":"SMUDGE ME NOT LIQUID LIPSTICK","price":"Rs.499","rating":"4.8","id":"3"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-matte-as-hell-crayon-lipstick-minis-set-28270316945491.jpg?v=1623073051"
+    ,"name":"MATTE CRAYON LIPSTICK SET","price":"Rs.1099","rating":"4.9","id":"4"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/01_d6ffec78-c2b6-4466-8672-233fee0285a8.jpg?v=1644394232"
+    ,"name":"MATTE AS HELL CRAYON LIPSTICK","price":"Rs.799","rating":"4.8","id":"5"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/AirKissPowderPoweredByImagesArtboard1.jpg?v=1644813116"
+    ,"name":"AIR KISS POWDER LIPSTICK","price":"Rs.499","rating":"4.7","id":"6"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/1_1da9dee5-9c2e-4135-994c-9b7d2ca23e6b.jpg?v=1641915296"
+    ,"name":"NOTHING ELSE MATTER LIPSTICK","price":"Rs.599","rating":"4.7","id":"7"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mettle-satin-lipstick-01-sophie-bright-fuchsia-pink-fuchsia-13706258088019.jpg?v=1619116113"
+    ,"name":"METTLE SATING LIPSTICK","price":"Rs.999","rating":"4.8","id":"8"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-lip-service-tint-remover-28122580910163.jpg?v=1619155575"
+    ,"name":"LIP SERVICE TINT REMOVER","price":"Rs.399","rating":"4.0","id":"9"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-lip-duo-01-brazen-raisin-burgundy-13200661643347.jpg?v=1619108721"
+    ,"name":"SMUDGE ME NOT LIP DUOS","price":"Rs.599","rating":"4.5","id":"10"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-24-hr-lip-lacquer-27982619738195.jpg?v=1619154969"
+    ,"name":"WONDER WOMAN LIP LACQUER","price":"Rs.699","rating":"4.6","id":"11"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/01_9e0bf9bb-92a6-45ca-8ce4-ce7d58c617ac.jpg?v=1639496863"
+    ,"name":"GOOD MOODIES LIP CRAYON","price":"Rs.599","rating":"4.8","id":"12"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-it-s-a-pout-time-vivid-lipstick-01-the-big-bang-berry-wine-13204815937619.jpg?v=1619100487"
+    ,"name":"VIVID LIPSTICK","price":"Rs.359","rating":"4.7","id":"13"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cossmetics-wonder-woman-creamy-matte-lipstick-04-wild-wonder-lightest-coral-peach-28128214483027.jpg?v=1619155118"
+    ,"name":"CREAMY MATTE LIPSTICK","price":"Rs.599","rating":"4.7","id":"14"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-everlasting-matte-lipstick-01-warrior-orange-red-27982193950803.jpg?v=1619155214"
+    ,"name":"EVERASTING MATTE LIPSTICK","price":"Rs.599","rating":"4.8","id":"15"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-07-rethink-pink-fuchsia-28190658723923.jpg?v=1619100956"
+    ,"name":"SMUDGE ME NOT LIQUID LIPSTICK","price":"Rs.499","rating":"4.7","id":"16"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-lip-service-sugar-scrub-28015074508883.jpg?v=1619155562"
+    ,"name":"LIP SERVICE SUGAR SCRUB","price":"Rs.399","rating":"4.6","id":"17"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mettle-liquid-lipstick-01-lyra-cool-toned-plum-13200549380179.jpg?v=1619110238"
+    ,"name":"METTLE LIQUID LIPSTICK","price":"Rs.1199","rating":"4.8","id":"18"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mettle-matte-lipstick-01-athena-red-terracotta-13200497737811.jpg?v=1619110264"
+    ,"name":"METTLE MATE LIPSTICK","price":"Rs.549","rating":"4.7","id":"19"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-adventurous-27950522073171.jpg?v=1620652479"
+    ,"name":"MINI LIQUID LIPSTICK SET","price":"Rs.599","rating":"4.8","id":"20"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-fighter-27950526169171.jpg?v=1620651933"
+    ,"name":"MINI LIQUID LIPSTICK SET","price":"Rs.799","rating":"4.7","id":"21"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-mint-green-invincible-27943029538899.jpg?v=1620652208"
+    ,"name":"MINI LIQUID LIPSTICK SET","price":"Rs.799","rating":"4.9","id":"22"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-red-fearless-27943255703635.jpg?v=1620652654"
+    ,"name":"MINI LIQUID LIPSTICK SET","price":"Rs.799","rating":"4.5","id":"23"}
+   ]
+}

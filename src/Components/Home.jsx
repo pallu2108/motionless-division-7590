@@ -5,7 +5,9 @@ import Slider from "../slider/Slider";
 import Slider2 from "../slider2/Slider2";
 import Slider3 from "../slider3/Slider3";
 import Footer from "./Footer/Footer"
+import { useNavigate } from "react-router-dom";
 function Home(){
+  const navigate=useNavigate() 
     return (
         <div>
             <div>
@@ -21,25 +23,25 @@ function Home(){
                         <img style={{height:"70%",width:"70%"}} src="https://cdn.shopify.com/s/files/1/0906/2558/products/382512089-mettle-priming-balm-01.jpg?v=1648654861" alt=""/>
                         <h4>METTLE PRIMING BALM</h4>
                         <p style={{marginBottom:"10px"}}>₹ 1099</p>
-                        <button style={{width:"100%",height:"40px",backgroundColor:"black",color:"white"}}>ADD TO CART</button>
+                        <button style={{width:"100%",height:"40px",backgroundColor:"black",color:"white"}} onClick={()=>navigate("/products")}>ADD TO CART</button>
                     </div>
                     <div style={{height:"320px",width:"250px",boxShadow: 'rgba(0, 0, 0, 0.16) 0px 1px 4px'}}>
                     <img style={{height:"70%",width:"70%"}} src="https://cdn.shopify.com/s/files/1/0906/2558/products/AirKissPowderPoweredByImagesArtboard1.jpg?v=1644813116" alt=""/>
                         <h4>AIR KISS POWDER LIPSTICK</h4>
                         <p style={{marginBottom:"10px"}}>₹ 499</p>
-                        <button style={{width:"100%",height:"40px",backgroundColor:"black",color:"white"}}>SELECT SHADE</button>
+                        <button style={{width:"100%",height:"40px",backgroundColor:"black",color:"white"}}  onClick={()=>navigate("/products")}>SELECT SHADE</button>
                     </div>
                     <div style={{height:"320px",width:"250px",boxShadow: 'rgba(0, 0, 0, 0.16) 0px 1px 4px'}}>
                     <img style={{height:"70%",width:"70%"}} src="https://cdn.shopify.com/s/files/1/0906/2558/products/1_c30a9b16-ef13-44c3-af41-04b227c62419.jpg?v=1642434141" alt=""/>
                         <h4>LIP ZIP MATTE TOPPER</h4>
                         <p style={{marginBottom:"10px"}}>₹ 499</p>
-                        <button style={{width:"100%",height:"40px",backgroundColor:"black",color:"white"}}>ADD TO CART</button> 
+                        <button style={{width:"100%",height:"40px",backgroundColor:"black",color:"white"}}  onClick={()=>navigate("/lipstick")}>ADD TO CART</button> 
                     </div>
                     <div style={{height:"320px",width:"250px",boxShadow: 'rgba(0, 0, 0, 0.16) 0px 1px 4px'}}>
                     <img style={{height:"70%",width:"70%"}} src="https://cdn.shopify.com/s/files/1/0906/2558/products/1_e9355d54-6ddb-4aa4-bdfc-176a676db886.jpg?v=1657257149" alt=""/>
                         <h4>GLORY SHINE PRIMER</h4>
                         <p style={{marginBottom:"10px"}}>₹ 799</p>
-                        <button style={{width:"100%",height:"40px",backgroundColor:"black",color:"white"}}>ADD TO CART</button>
+                        <button style={{width:"100%",height:"40px",backgroundColor:"black",color:"white"}}  onClick={()=>navigate("/products")}>ADD TO CART</button>
                     </div>
                 </div>
             </div>
