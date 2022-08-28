@@ -1,11 +1,24 @@
 
+import { useEffect } from "react"
 import Footer from "../Footer/Footer"
 import Navbar from "../Navbar"
 import "./productData.css"
 function Cart(){
-    let data =  JSON.parse(localStorage.getItem("myItems"))
-    console.log(data)
-     
+    let data =  JSON.parse(localStorage.getItem("myItems")) 
+    
+   
+   
+     const handleRemove=(id)=>{
+
+const newdata=data.filter((el)=>{
+    return el.id !=id
+})
+localStorage.setItem("myItems",JSON.stringify(newdata))
+
+alert("1 item is Remove from the cart")
+window.location.reload()
+     }
+   
     
     return(
         <div>
@@ -21,7 +34,7 @@ function Cart(){
                           <p className="price">{el.price}</p>
                           <p className="rating">{el.rating}</p>
                           <div>
-                          <button className="add-to-cart">Remove</button>
+                          <button className="add-to-cart" onClick={()=>handleRemove(el.id)}>Remove</button>
                           </div>
                        </div>
                     </div>
