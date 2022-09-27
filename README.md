@@ -17,7 +17,7 @@ Manufactured in state-of-the-art facilities across Germany, Italy, India, the US
 
 Github ripository : https://github.com/pallu2108/motionless-division-7590
 
-Hosted website (Vercel) :  https://sugar-cosmetics-clone-pallavi.netlify.app/
+Hosted website (Netlify) :  https://sugar-cosmetics-clone-pallavi.netlify.app/
 </p>
 
 ### `Tech Stack`
